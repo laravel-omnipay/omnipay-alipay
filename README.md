@@ -14,16 +14,16 @@
 [Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP. This package implements Alipay support for Omnipay.
 
-> Cross-border Alipay payment please use [`lokielse/omnipay-global-alipay`](https://github.com/lokielse/omnipay-global-alipay)
+> Cross-border Alipay payment please use [`laravel-omnipay/omnipay-global-alipay`](https://github.com/laravel-omnipay/omnipay-global-alipay)
  
-> Legacy Version please use [`"lokielse/omnipay-alipay": "dev-legacy"`](https://github.com/lokielse/omnipay-alipay/tree/legacy)
+> Legacy Version please use [`"laravel-omnipay/omnipay-alipay": "dev-legacy"`](https://github.com/laravel-omnipay/omnipay-alipay/tree/legacy)
 
 ## Installation
 
 Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply add it
 to your `composer.json` file:
 
-    "lokielse/omnipay-alipay": "^2.0",
+    "laravel-omnipay/omnipay-alipay": "^3.0",
 
 And run composer to update your dependencies:
 
